@@ -5,6 +5,7 @@
   - Frameworks & Libraries: PyTorch, NumPy, Pandas, Scikit-learn
 
 ## About the Dataset:
+- *diabetes.csv* file contains the dataset used in the project.
 - Link to the dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 - Source: National Institute of Diabetes and Digestive and Kidney Diseases.
 - Objective: to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
