@@ -2,7 +2,8 @@
 
 ## Technical Stack:
   - Language: Python
-  - Frameworks & Libraries: PyTorch, NumPy, Pandas, Scikit-learn
+  - Frameworks & Libraries: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib
+  - Used [Kaggle](https://www.kaggle.com/)'s Jupyter Notebook
 
 ## About the Dataset:
 - *diabetes.csv* file contains the dataset used in the project.
