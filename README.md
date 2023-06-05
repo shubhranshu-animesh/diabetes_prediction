@@ -1,4 +1,4 @@
-# Project Description
+# Project Description:
 
 ## Technical Stack:
   - Language: Python
